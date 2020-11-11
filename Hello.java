@@ -1,1 +1,6 @@
-THIS IS A TESTING FILE ABOUT THE UPLOADING TO THE GITHUB
+public class Hello (){
+ system.out.pritnln("this is my first java-git program uploaded to the github")
+	 
+
+
+}
